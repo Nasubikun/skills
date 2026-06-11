@@ -52,4 +52,4 @@ Claude が以下を実行します:
 
 ## 検証記事
 
-この skill を使った「Fable 5 に指示させて下位モデルが実装すればいい、は本当か?」の検証記事はこちら: (TODO: Zenn 記事リンク)
+この skill を使った検証記事: [【検証】Claude Fable 5 に指示させて下位モデルが実装すればいい、は本当か？](https://zenn.dev/nasubikun/articles/fable-plans-cheap-models-implement)
